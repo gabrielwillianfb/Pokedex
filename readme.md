@@ -1,3 +1,4 @@
+
 # Pokedex (Experimento)
 
 Projeto da Dio para criar pokedex, consumindo API da [Poke Api](https://pokeapi.co/), foi desafiador criar uma segunda tela onde é mostrado informações essenciais sobre cada pokemon.
