@@ -10,4 +10,4 @@ Tecnologias utilizadas:`<br>`
 
 ## Screenshots
 
-`<a href="https://ibb.co/xsXdHk9"><img src="https://i.ibb.co/yRd7S9v/pokedex-print.png" alt="pokedex-print" border="0" />``</a>`
+<a href="https://ibb.co/xsXdHk9"><img src="https://i.ibb.co/yRd7S9v/pokedex-print.png" alt="pokedex-print" border="0" /></a>
